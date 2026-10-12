@@ -2,6 +2,8 @@
 
 Disclaimer: The information provided may not be 100% accurate due to nuances in translation.
 
+> Note: Original reports contain words like "possibly", "potentially", "may", "might". For that reason, below information has phrases: "(potentially) leaked" and "(possibly) leaked data".
+
 1. [Times Car](#times-car)
 1. [Sagawa Express](#sagawa-express)
 1. [Yamato](#yamato)
@@ -29,7 +31,7 @@ Breach detected date: 2026-09-25
 
 Breach reported date: 2026-09-25
 
-Impact: up to 6.6 million accounts's data is stolen 
+Impact: up to 6.6 million accounts's data (potentially) leaked 
 
 (possibly) Leaked data:
 
@@ -87,7 +89,7 @@ Breach reported date: 2026-10-02
 
 Impact: 
 
-Leaked data:
+(possibly) Leaked data:
 
 - names
 - addresses
@@ -108,10 +110,10 @@ Breach detected date:
 
 Breach reported date: 2026-10-05
 
-Impact:  up to 220,000 personal records leaked
+Impact:  up to 220,000 personal records (potentially) leaked
 
 
-Leaked data:
+(possibly) Leaked data:
 
 - names
 - email addresses
@@ -128,7 +130,7 @@ Breach detected date: 2026-10-03
 
 Breach reported date: 2026-10-05
 
-Impact: up to 940,000 pieces of personal data were stolen
+Impact: up to 940,000 pieces of personal data (potentially) leaked
 
 (possibly) Leaked data:
 
@@ -140,6 +142,7 @@ Impact: up to 940,000 pieces of personal data were stolen
 
 Source: "[GMO group firm reports data leak, misuse of reward points](https://www3.nhk.or.jp/nhkworld/news/20261006de55399/)" news by NHK
 
+
 ## MrMax Holdings
 
 Company Profile: discount store operator.
@@ -148,7 +151,7 @@ Breach detected date: 2026-10-03
 
 Breach reported date: 2026-10-06
 
-Impact: up to 1,735,154 people's data is stolen
+Impact: up to 1,735,154 people's data (potentially) leaked
 
 (possibly) Leaked data:
 
@@ -170,7 +173,7 @@ Breach detected date: 2026-10-03
 
 Breach reported date: 2026-10-06
 
-Impact: up to 100,000 people's data is stolen
+Impact: up to 100,000 people's data (potentially) leaked
 
 (possibly) Leaked data:
 
@@ -194,9 +197,9 @@ Breach detected date: 2025-12-11
 
 Breach reported date: 2026-10-07
 
-Impact: up to 627 people's passport information leaked
+Impact: up to 627 people's passport information (potentially) leaked
 
-Leaked data:
+(possibly) Leaked data:
 
 - passport information
 
@@ -234,7 +237,7 @@ Breach detected date:
 
 Breach reported date:  2026-10-07
 
-Impact: up to 60,000 individuals' data leaked
+Impact: up to 60,000 individuals' data (potentially) leaked
 
 (possibly )Leaked data:
 
@@ -255,9 +258,9 @@ Breach detected date: 2026-10-07
 
 Breach reported date: 2026-10-08
 
-Impact: up to 2,155,345 people's data is stolen
+Impact: up to 2,155,345 people's data (potentially) leaked
 
-Leaked data:
+(possibly) Leaked data:
 
 - name
 - email address
@@ -277,9 +280,9 @@ Breach detected date:
 
 Breach reported date: 2026-10-08
 
-Impact: up to 8.72 million personal records leaked
+Impact: up to 8.72 million personal records (potentially) leaked
 
-Leaked data:
+(possibly) Leaked data:
 
 -  names 
 - genders
@@ -299,9 +302,9 @@ Breach detected date: 2026-10-05
 
 Breach reported date: 2026-10-09
 
-Impact: up to 14.64 million customers' data is stolen
+Impact: up to 14.64 million customers' data (potentially) leaked
 
-Leaked data:
+(possibly) Leaked data:
 
 - name 
 - date of birth
@@ -323,9 +326,9 @@ Breach detected date:  2026-10-06
 
 Breach reported date:  2026-10-09
 
-Impact: up to 6,430,000 people's data is stolen
+Impact: up to 6,430,000 people's data (potentially) leaked
 
-Leaked data:
+(possibly) Leaked data:
 
 - name 
 - date of birth
@@ -349,7 +352,7 @@ Breach detected date:
 
 Breach reported date: 2026-10-09
 
-Impact: up to 3,000 people's data is stolen
+Impact: up to 3,000 people's data (potentially) leaked
 
 (possibly) Leaked data:
 
@@ -374,7 +377,7 @@ Breach reported date: 2026-10-09
 
 ### ekinet and ビューカード service
 
-Impact: up to 5.7 million email addresses leaked
+Impact: up to 5.7 million email addresses (potentially) leaked
 
 (possibly) Leaked data:
 
@@ -382,7 +385,7 @@ Impact: up to 5.7 million email addresses leaked
 
 ### 大人の休日倶楽部
 
-Impact: up to 390,000 members' data leaked
+Impact: up to 390,000 members' data (potentially) leaked
 
 (possibly) Leaked data:
 
@@ -405,7 +408,7 @@ Breach detected date:
 
 Breach reported date: 2026-10-09
 
-Impact: up to 1.3 million email addresses leaked
+Impact: up to 1.3 million email addresses (potentially) leaked
 
 (possibly) Leaked data:
 
@@ -422,12 +425,11 @@ Breach detected date: 2026-10-06
 
 Breach reported date: 2026-10-09
 
-Impact: up to 3,885,771 users' email addresses leaked
+Impact: up to 3,885,771 users' email addresses (potentially) leaked
 
-Leaked data:
+(possibly) Leaked data:
 
 - email addresses
 
 Source: ["「バイトル」「バイトルNEXT」不正アクセスによる一部メールアドレス漏えいに関するお知らせとお詫び"(https://www.dip-net.co.jp/news/2192)] announcement by the company.
-
 
