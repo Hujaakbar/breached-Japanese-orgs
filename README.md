@@ -61,11 +61,11 @@ Source: "[タイムズカーWebシステムへの不正アクセスに関する�
 
 Company Profile: delivery service provider
 
-Breach detected date: 2026-9-30
+Breach detected date: 2026-09-30
 
 Breach reported date: 2026-10-01
 
-Impact: 
+Impact: Not disclosed
 
 (possibly) Leaked data:
 
@@ -87,7 +87,7 @@ Breach detected date: 2026-09-28
 
 Breach reported date: 2026-10-02
 
-Impact: 
+Impact: Not disclosed
 
 (possibly) Leaked data:
 
@@ -106,7 +106,7 @@ Company Profile:
 
 Breach stemmed from Scala Communications (a provider of management services for personal inquiries and other matters).
 
-Breach detected date: 
+Breach detected date: Not disclosed
 
 Breach reported date: 2026-10-05
 
@@ -213,9 +213,9 @@ Company Profile: Cloud services provider
 
 IDC Frontier's systems were attacked by ransomware.
 
-Attach detected date:
+Incident detected date: Not disclosed
 
-Attach reported date: 2026-10-07
+Incident reported date: 2026-10-07
 
 Impact: 495 companies and local governments affected
 
@@ -233,7 +233,7 @@ Source: "[https://www.nikkei.com/article/DGXZQOUC0855J0Y6A001C2000000/](https://
 
 Company Profile: insurance provider.
 
-Breach detected date:
+Breach detected date: Not disclosed
 
 Breach reported date:  2026-10-07
 
@@ -276,7 +276,7 @@ Source: ["第三者による不正アクセスに伴う個人情報漏えいに�
 
 Company Profile: operator of the Big Echo karaoke chain
 
-Breach detected date:
+Breach detected date: Not disclosed
 
 Breach reported date: 2026-10-08
 
@@ -348,7 +348,7 @@ Source: "[不正アクセスによる個人情報漏えいに関するお詫び�
 
 Company Profile: Automaker
 
-Breach detected date:
+Breach detected date: Not disclosed
 
 Breach reported date: 2026-10-09
 
@@ -371,7 +371,7 @@ Company Profile: Rail operator.
 
 Issue stemmed from IDC Frontier (data center services provider)
 
-Breach detected date:
+Breach detected date: Not disclosed
 
 Breach reported date: 2026-10-09
 
@@ -404,7 +404,7 @@ Company Profile: Rail operator.
 
 Issue stemmed from IDC Frontier (data center services provider)
 
-Breach detected date:
+Breach detected date: Not disclosed
 
 Breach reported date: 2026-10-09
 
