@@ -519,7 +519,7 @@ Impact: up to 3,885,771 users' email addresses (potentially) leaked
 
 - email addresses
 
-Source: ["「バイトル」「バイトルNEXT」不正アクセスによる一部メールアドレス漏えいに関するお知らせとお詫び"(https://www.dip-net.co.jp/news/2192)] announcement by the company.
+Source: "[「バイトル」「バイトルNEXT」不正アクセスによる一部メールアドレス漏えいに関するお知らせとお詫び](https://www.dip-net.co.jp/news/2192)" announcement by the company.
 
 ### Yamaha
 
