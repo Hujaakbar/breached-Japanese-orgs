@@ -5,7 +5,9 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
 > Note: Original reports contain words like "possibly", "potentially", "may", "might". For that reason, below information has phrases: "(potentially) leaked" and "(possibly) leaked data".
 
 1. [Times Car](#times-car)
+1. [Seicomart](#seicomart)
 1. [Sagawa Express](#sagawa-express)
+1. [Daiichi Life Group and Dai-ichi Life Insurance](#daiichi-life-group-and-dai-ichi-life-insurance)
 1. [Yamato](#yamato)
 1. [Daiwa Securities](#daiwa-securities)
 1. [GMO Research & AI](#gmo-research--ai)
@@ -22,6 +24,7 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
 1. [JR East](#jr-east)
 1. [JR Kyushu](#jr-kyushu)
 1. [DIP (Baitoru)](#dip-baitoru)
+1. [Yamaha](#yamaha)
 
 ## Times Car
 
@@ -56,6 +59,31 @@ Impact: up to 6.6 million accounts's data (potentially) leaked
 Source: "[タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第3報）](https://www.park24.co.jp/news/2026/09/20260929-1.html)" announcement by the company.
 
 
+## Seicomart
+
+Company Profile: a convenience store chain primarily operating in Hokkaido.
+
+The breach stemmed from smartphone app.
+
+Impact: up to 572,022 members' data (potentially) leaked 
+
+Breach detected date: Not disclosed
+
+Breach reported date: 2026-09-29
+
+(possibly) Leaked data:
+
+- name
+- gender
+- date of birth
+- address
+- telephone number
+- email address
+- club card membership start date
+- membership termination date
+
+
+Source: "[「セイコーマートアプリ」への不正アクセスによる個人情報流出の可能性に関する お詫びとお知らせ](https://online.seicomart.co.jp/delivery/cms/preview.php?pre_no=119&disp_flg=pc)" announcement by the company.
 
 ## Sagawa Express
 
@@ -76,6 +104,29 @@ Impact: Not disclosed
 - Smart Club membership ID
 
 Source: "[「お荷物問い合わせサービス」への不正アクセスによる個人情報流出の可能性について（第2報）2026年10月1日](https://www2.sagawa-exp.co.jp/information/detail/420/)" announcement by the company.
+
+
+
+## Daiichi Life Group and Dai-ichi Life Insurance
+
+Company Profile: 
+
+Unauthorized access was detected in the human resources systems.
+
+Breach detected date: 2026-09-24
+
+Breach reported date: 2026-10-02
+
+Impact: up to 120,000 (current and retired) employees' data (potentially) leaked
+
+(possibly) Leaked data:
+
+- names
+- addresses
+- phone numbers
+- job titles
+
+Source: "[第一ライフグループ、従業員の個人情報流出か　退職者含む12万人分](https://www.nikkei.com/article/DGXZQOUB02AXU0S6A001C2000000/)" news report by Nikkei.
 
 
 
@@ -433,3 +484,26 @@ Impact: up to 3,885,771 users' email addresses (potentially) leaked
 
 Source: ["「バイトル」「バイトルNEXT」不正アクセスによる一部メールアドレス漏えいに関するお知らせとお詫び"(https://www.dip-net.co.jp/news/2192)] announcement by the company.
 
+## Yamaha
+
+Company profile: manufactures of motocycles and other things.
+
+The breach originated in Commune Inc. (コミューン株式会社).
+
+Breach detected date: 2026-10-06
+
+Breach reported date: 2026-10-09
+
+Impact: up to 1,600 individuals' data (potentially) leaked
+
+(possibly) Leaked data:
+
+- email addresses
+- display names
+- account names
+- self-introductions
+- icons
+- group affiliation details
+
+
+Source: "[外部委託先への不正アクセスによるお客様情報漏えいについて](https://www.yamaha.com/ja/news_release/files/news/26100901/pdf/2610090101.pdf)" announcement by the company.
