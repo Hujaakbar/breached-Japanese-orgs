@@ -1,5 +1,26 @@
 # List of Breached Japanese Organisations
 
+Disclaimer: The information provided may not be 100% accurate due to nuances in translation.
+
+1. [Times Car](#times-car)
+1. [Sagawa Express](#sagawa-express)
+1. [Yamato](#yamato)
+1. [Daiwa Securities](#daiwa-securities)
+1. [GMO Research & AI](#gmo-research--ai)
+1. [MrMax Holdings](#mrmax-holdings)
+1. [Citizen Watch](#citizen-watch-co)
+1. [HIS](#his)
+1. [IDC Frontier](#idc-frontier)
+1. [Sompo Japan](#sompo-japan)
+1. [Lawson](#lawson)
+1. [Daiichikosho](#daiichikosho)
+1. [Skyticket](#skyticket)
+1. [Book Off](#book-off)
+1. [Suzuki](#suzuki)
+1. [JR East](#jr-east)
+1. [JR Kyushu](#jr-kyushu)
+1. [DIP (Baitoru)](#dip-baitoru)
+
 ## Times Car
 
 Company Profile: car-sharing service
