@@ -4,29 +4,51 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
 
 > Note: Original reports contain words like "possibly", "potentially", "may", "might". For that reason, below information has phrases: "(potentially) leaked" and "(possibly) leaked data".
 
-1. [Times Car](#times-car)
-1. [Seicomart](#seicomart)
-1. [Sagawa Express](#sagawa-express)
-1. [Daiichi Life Group and Dai-ichi Life Insurance](#daiichi-life-group-and-dai-ichi-life-insurance)
-1. [Yamato](#yamato)
-1. [Daiwa Securities](#daiwa-securities)
-1. [GMO Research & AI](#gmo-research--ai)
-1. [MrMax Holdings](#mrmax-holdings)
-1. [Citizen Watch](#citizen-watch-co)
-1. [HIS](#his)
-1. [IDC Frontier](#idc-frontier)
-1. [Sompo Japan](#sompo-japan)
-1. [Lawson](#lawson)
-1. [Daiichikosho](#daiichikosho)
-1. [Skyticket](#skyticket)
-1. [Book Off](#book-off)
-1. [Suzuki](#suzuki)
-1. [JR East](#jr-east)
-1. [JR Kyushu](#jr-kyushu)
-1. [DIP (Baitoru)](#dip-baitoru)
-1. [Yamaha](#yamaha)
 
-## Times Car
+- [2026-09-25](#2026-09-25)
+  1. [Times Car](#times-car)
+
+- [2026-09-29](#2026-09-29)
+  1. [Seicomart](#seicomart)
+
+- [2026-10-01](#2026-10-01)
+  1. [Sagawa Express](#sagawa-express)
+
+- [2026-10-02](#2026-10-02)
+  1. [Daiichi Life Group and Dai-ichi Life Insurance](#daiichi-life-group-and-dai-ichi-life-insurance)
+  1. [Yamato](#yamato)
+
+- [2026-10-05](#2026-10-05)
+  1. [Daiwa Securities](#daiwa-securities)
+  1. [GMO Research & AI](#gmo-research--ai)
+
+- [2026-10-06](#2026-10-06)
+  1. [MrMax Holdings](#mrmax-holdings)
+  1. [Citizen Watch](#citizen-watch-co)
+
+- [2026-10-07](#2026-10-07)
+  1. [HIS](#his)
+  1. [IDC Frontier](#idc-frontier)
+  1. [Sompo Japan](#sompo-japan)
+
+- [2026-10-08](#2026-10-08)
+  1. [Lawson](#lawson)
+  1. [Daiichikosho](#daiichikosho)
+
+- [2026-10-09](#2026-10-09)
+  1. [Skyticket](#skyticket)
+  1. [Book Off](#book-off)
+  1. [Suzuki](#suzuki)
+  1. [JR East](#jr-east)
+  1. [JR Kyushu](#jr-kyushu)
+  1. [DIP (Baitoru)](#dip-baitoru)
+  1. [Yamaha](#yamaha)
+  
+
+
+## 2026-09-25
+
+### Times Car
 
 Company Profile: car-sharing service
 
@@ -59,7 +81,9 @@ Impact: up to 6.6 million accounts's data (potentially) leaked
 Source: "[タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第3報）](https://www.park24.co.jp/news/2026/09/20260929-1.html)" announcement by the company.
 
 
-## Seicomart
+## 2026-09-29
+
+### Seicomart
 
 Company Profile: a convenience store chain primarily operating in Hokkaido.
 
@@ -85,7 +109,10 @@ Breach reported date: 2026-09-29
 
 Source: "[「セイコーマートアプリ」への不正アクセスによる個人情報流出の可能性に関する お詫びとお知らせ](https://online.seicomart.co.jp/delivery/cms/preview.php?pre_no=119&disp_flg=pc)" announcement by the company.
 
-## Sagawa Express
+
+## 2026-10-01
+
+### Sagawa Express
 
 Company Profile: delivery service provider
 
@@ -106,8 +133,9 @@ Impact: Not disclosed
 Source: "[「お荷物問い合わせサービス」への不正アクセスによる個人情報流出の可能性について（第2報）2026年10月1日](https://www2.sagawa-exp.co.jp/information/detail/420/)" announcement by the company.
 
 
+## 2026-10-02
 
-## Daiichi Life Group and Dai-ichi Life Insurance
+### Daiichi Life Group and Dai-ichi Life Insurance
 
 Company Profile: 
 
@@ -130,7 +158,7 @@ Source: "[第一ライフグループ、従業員の個人情報流出か　退�
 
 
 
-## Yamato
+### Yamato
 
 Company Profile: Transportation service provider
 
@@ -151,7 +179,9 @@ Impact: Not disclosed
 Source: "[ヤマト運輸に不正アクセス、氏名や住所漏洩か　通販後払いで](https://www.nikkei.com/article/DGXZQOUC027150S6A001C2000000/)" news report by Nikkei.
 
 
-## Daiwa Securities
+## 2026-10-05
+
+### Daiwa Securities
 
 Company Profile:
 
@@ -173,7 +203,7 @@ Impact:  up to 220,000 personal records (potentially) leaked
 Source: "[大和証券、口座番号など顧客情報22万件が漏洩か　委託先に不正アクセス](https://www.nikkei.com/article/DGXZQOUB053ZF0V01C26A0000000/)" news report by Nikkei
 
 
-## GMO Research & AI
+### GMO Research & AI
 
 Company Profile: A Japanese online research company that runs a website where people fill out surveys in exchange for reward points says it has been hit by a cyberattack.
 
@@ -194,7 +224,9 @@ Impact: up to 940,000 pieces of personal data (potentially) leaked
 Source: "[GMO group firm reports data leak, misuse of reward points](https://www3.nhk.or.jp/nhkworld/news/20261006de55399/)" news by NHK
 
 
-## MrMax Holdings
+## 2026-10-06
+
+### MrMax Holdings
 
 Company Profile: discount store operator.
 
@@ -214,7 +246,7 @@ Impact: up to 1,735,154 people's data (potentially) leaked
 Source: "[不正アクセスによる情報流出に関するお詫びとお知らせ](https://www.mrmax.co.jp/info/incident_20261006/)" by the company.
 
 
-## Citizen Watch Co.
+### Citizen Watch Co.
 
 Company Profile: a watch maker.
 
@@ -238,7 +270,9 @@ Impact: up to 100,000 people's data (potentially) leaked
 Source: "[委託先事業者に対する不正アクセスによるお客様情報の漏えいの可能性について](https://www.citizen.co.jp/release/news/detail/2026/20261006.html)" announcement by the company.
 
 
-## HIS
+## 2026-10-07
+
+### HIS
 
 Company Profile: travel agency
 
@@ -258,7 +292,7 @@ Impact: up to 627 people's passport information (potentially) leaked
 Source: "[ＨＩＳタイ法人に不正アクセス、最大627人分のパスポート情報流出か](https://www.reuters.com/jp/world/Y7K26DGJDZPEBLOFWJDAGSIXXM-2026-10-07/)" news report by Reuters.
 
 
-## IDC Frontier
+### IDC Frontier
 
 Company Profile: Cloud services provider
 
@@ -280,7 +314,7 @@ Some of the impacted entities:
 Source: "[https://www.nikkei.com/article/DGXZQOUC0855J0Y6A001C2000000/](https://www.nikkei.com/article/DGXZQOUC0855J0Y6A001C2000000/)" news report by Nikkei.
 
 
-## Sompo Japan
+### Sompo Japan
 
 Company Profile: insurance provider.
 
@@ -301,7 +335,9 @@ Impact: up to 60,000 individuals' data (potentially) leaked
 Source: "[損保ジャパン　約6万件の個人情報漏えいか　委託先に不正アクセス](https://newsdig.tbs.co.jp/articles/-/2996966?display=1)" news report by  TBS NewsDig.
 
 
-## Lawson
+## 2026-10-08
+
+### Lawson
 
 Company Profile: Convenience Store Operator
 
@@ -323,7 +359,7 @@ Impact: up to 2,155,345 people's data (potentially) leaked
 Source: ["第三者による不正アクセスに伴う個人情報漏えいに関するお詫びとお知らせ"](https://www.lawson.co.jp/contents/cont07/1533174_3310.html) announcement by the company.
 
 
-## Daiichikosho
+### Daiichikosho
 
 Company Profile: operator of the Big Echo karaoke chain
 
@@ -344,8 +380,9 @@ Impact: up to 8.72 million personal records (potentially) leaked
 Source: "[Potential Personal Information Leak at a Contractor](https://en.dkkaraoke.co.jp/news/newsletter/261008_2.html)" announcement by the company.
 
 
+## 2026-10-09
 
-## Skyticket
+### Skyticket
 
 Company Profile:
 
@@ -369,7 +406,7 @@ Source: "[不正アクセスによるお客様情報の流出に関するお詫�
 
 
 
-## Book Off
+### Book Off
 
 Company Profile:
 
@@ -395,7 +432,7 @@ Source: "[不正アクセスによる個人情報漏えいに関するお詫び�
 
 
 
-## Suzuki
+### Suzuki
 
 Company Profile: Automaker
 
@@ -416,7 +453,7 @@ Impact: up to 3,000 people's data (potentially) leaked
 Source: "[当社コミュニティサイト「スズキヴィレッジ」への不正アクセスに関するお知らせ](https://www.suzuki.co.jp/release/d/2026/1009/)" announcement by the company.
 
 
-## JR East
+### JR East
 
 Company Profile: Rail operator.
 
@@ -426,7 +463,7 @@ Breach detected date: Not disclosed
 
 Breach reported date: 2026-10-09
 
-### ekinet and ビューカード service
+#### Ekinet and ビューカード service
 
 Impact: up to 5.7 million email addresses (potentially) leaked
 
@@ -434,7 +471,7 @@ Impact: up to 5.7 million email addresses (potentially) leaked
 
 - email addresses
 
-### 大人の休日倶楽部
+#### 大人の休日倶楽部
 
 Impact: up to 390,000 members' data (potentially) leaked
 
@@ -449,7 +486,7 @@ Source: "[IDC フロンティア社で発生した不正アクセスに伴うメ
 メールアドレス等の漏えい可能性について](https://www.jreast.co.jp/press/2026/20261009_ho02.pdf)" announcement by the company.
 
 
-## JR Kyushu
+### JR Kyushu
 
 Company Profile: Rail operator.
 
@@ -468,7 +505,7 @@ Impact: up to 1.3 million email addresses (potentially) leaked
 Source: "[JR九州、メアド最大130万件漏洩か　ソフトバンク子会社不正アクセス](https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/)" news report by Nikkei.
 
 
-## DIP (Baitoru)
+### DIP (Baitoru)
 
 Company Profile:
 
@@ -484,7 +521,7 @@ Impact: up to 3,885,771 users' email addresses (potentially) leaked
 
 Source: ["「バイトル」「バイトルNEXT」不正アクセスによる一部メールアドレス漏えいに関するお知らせとお詫び"(https://www.dip-net.co.jp/news/2192)] announcement by the company.
 
-## Yamaha
+### Yamaha
 
 Company profile: manufactures of motocycles and other things.
 
