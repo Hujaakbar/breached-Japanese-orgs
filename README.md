@@ -193,7 +193,7 @@ Breach detected date: 2025-12-11
 
 Breach reported date: 2026-10-07
 
-Impact: up to 727 people's passport information leaked
+Impact: up to 627 people's passport information leaked
 
 Leaked data:
 
