@@ -183,6 +183,7 @@ Impact: up to 100,000 people's data is stolen
 
 Source: "[委託先事業者に対する不正アクセスによるお客様情報の漏えいの可能性について](https://www.citizen.co.jp/release/news/detail/2026/20261006.html)" announcement by the company.
 
+
 ## HIS
 
 Company Profile: travel agency
@@ -390,7 +391,8 @@ Impact: up to 390,000 members' data leaked
 - credit card expiration dates
 - birth dates
 
-Source: "[](https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/)" news report by Nikkei.
+Source: "[IDC フロンティア社で発生した不正アクセスに伴うメール配信用外部サービスからの
+メールアドレス等の漏えい可能性について](https://www.jreast.co.jp/press/2026/20261009_ho02.pdf)" announcement by the company.
 
 
 ## JR Kyushu
@@ -409,7 +411,7 @@ Impact: up to 1.3 million email addresses leaked
 
 - email addresses
 
-Source: "[](https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/)" news report by Nikkei.
+Source: "[JR九州、メアド最大130万件漏洩か　ソフトバンク子会社不正アクセス](https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/)" news report by Nikkei.
 
 
 ## DIP (Baitoru)
