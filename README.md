@@ -235,7 +235,7 @@ Company Profile: insurance provider.
 
 Breach detected date: Not disclosed
 
-Breach reported date:  2026-10-07
+Breach reported date: 2026-10-07
 
 Impact: up to 60,000 individuals' data (potentially) leaked
 
@@ -322,9 +322,9 @@ Source: "[不正アクセスによるお客様情報の流出に関するお詫�
 
 Company Profile:
 
-Breach detected date:  2026-10-06
+Breach detected date: 2026-10-06
 
-Breach reported date:  2026-10-09
+Breach reported date: 2026-10-09
 
 Impact: up to 6,430,000 people's data (potentially) leaked
 
