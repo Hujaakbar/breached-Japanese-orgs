@@ -221,7 +221,7 @@ Impact: up to 940,000 pieces of personal data (potentially) leaked
   - phone numbers
   - e-mail addresses
 
-Source: "[GMO group firm reports data leak, misuse of reward points](https://www3.nhk.or.jp/nhkworld/news/20261006de55399/)" news by NHK
+Source: "[GMO group firm reports data leak, misuse of reward points](https://www3.nhk.or.jp/nhkworld/news/20261006de55399/)" news report by NHK.
 
 
 ## 2026-10-06
@@ -243,7 +243,7 @@ Impact: up to 1,735,154 people's data (potentially) leaked
 - email address
 - phone number
 
-Source: "[不正アクセスによる情報流出に関するお詫びとお知らせ](https://www.mrmax.co.jp/info/incident_20261006/)" by the company.
+Source: "[不正アクセスによる情報流出に関するお詫びとお知らせ](https://www.mrmax.co.jp/info/incident_20261006/)" announcement by the company.
 
 
 ### Citizen Watch Co.
