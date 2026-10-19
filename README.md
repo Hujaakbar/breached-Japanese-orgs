@@ -4,6 +4,8 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
 
 > Note: Original reports contain words like "possibly", "potentially", "may", "might". For that reason, below information has phrases: "(potentially) leaked" and "(possibly) leaked data".
 
+- [2026-07-13](#2026-07-13)
+  1. [Nichirei](#nichirei)
 
 - [2026-09-25](#2026-09-25)
   1. [Times Car](#times-car)
@@ -43,7 +45,33 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
   1. [JR Kyushu](#jr-kyushu)
   1. [DIP (Baitoru)](#dip-baitoru)
   1. [Yamaha](#yamaha)
+
+- [2026-10-15](#2026-10-15)
+  1. [Burger King Japan](#burger-king-japan)
   
+- [Other](#other)
+
+- [My thoughts](#my-thoughts)
+
+## 2026-07-13
+
+### Nichirei
+
+Company profile: frozen-food and logistics company
+
+Ransomware attack by RansomHouse group.
+
+Breach detected date: -
+
+Breach reported date: 2026-07-13
+
+Impact: Distruptions in supply chain of KFC Japan, Kura sushi, restaurant operator Colowide, and Aeon 
+
+
+Source: 
+
+  - "[Hacker group RansomHouse claims responsibility for cyberattack on Nichirei](https://www.japantimes.co.jp/business/2026/07/22/companies/nichirei-cyberattack-ransomhouse/)" news article by Japan Times
+  - "[Nichirei getting back online after cyberattack hit KFC supplies](https://www.japantimes.co.jp/business/2026/07/16/companies/nichirei-back-cyberattack/)" news article by Japan Times
 
 
 ## 2026-09-25
@@ -79,6 +107,15 @@ Impact: up to 6.6 million accounts's data (potentially) leaked
 - Family verification document images (for family plans)
 
 Source: "[タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第3報）](https://www.park24.co.jp/news/2026/09/20260929-1.html)" announcement by the company.
+
+
+#### Follor up
+
+Company announced rule changes regarding storing photo documents of members
+  - it would delete existing photo documents/data of the members by the end of October 2026
+  - (for new users) once account creation is complce, it would delete photos used for verification
+
+Source: [タイムズカー　免許証画像の保存ルール変更　大規模な情報漏えい受け(2026年10月16日)](https://www.youtube.com/watch?v=25xQCZklZss&list=WL&index=4) news by ANNnewsCH
 
 
 ## 2026-09-29
@@ -544,3 +581,37 @@ Impact: up to 1,600 individuals' data (potentially) leaked
 
 
 Source: "[外部委託先への不正アクセスによるお客様情報漏えいについて](https://www.yamaha.com/ja/news_release/files/news/26100901/pdf/2610090101.pdf)" announcement by the company.
+
+
+## 2026-10-15
+
+### Burger King Japan
+
+Breach detected date: 2026-10-13
+
+Breach reported date: 2026-10-15
+
+Official Burger King app got hacked.
+
+Impact: up to 11.18 million customer records (potentially) leaked
+
+(possibly) Leaked data:
+
+- member ID
+- email address
+- registration type
+- prefecture
+- gender
+- date of birth
+- full name (in Kanji and Kana)
+- phone number
+- status of mobile order history
+- email address verification status.
+
+> Credit card numbers are not stored by by the company and were not leaked.
+
+Source: "[不正アクセスによる 公式アプリ会員情報漏え いに関するお詫びとお知らせ ](https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf)" announcement by the company.
+
+## My Thoughts
+
+You can read my thoughts on this matter in this repository's discussions section, and if you like you can share your take as well.
