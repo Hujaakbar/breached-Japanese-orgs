@@ -614,4 +614,4 @@ Source: "[不正アクセスによる 公式アプリ会員情報漏え いに�
 
 ## My Thoughts
 
-You can read my thoughts on this matter in this repository's discussions section, and if you like you can share your take as well.
+You can read [my thoughts](https://github.com/Hujaakbar/breached-Japanese-orgs/discussions/1) on this matter in this repository's discussions section, and if you like you can share your take as well.
