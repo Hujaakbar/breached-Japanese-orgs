@@ -46,6 +46,9 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
   1. [DIP (Baitoru)](#dip-baitoru)
   1. [Yamaha](#yamaha)
 
+- [2026-10-13](#2026-10-13)
+  - [Arcadia](#arcadia)
+
 - [2026-10-15](#2026-10-15)
   1. [Burger King Japan](#burger-king-japan)
   
