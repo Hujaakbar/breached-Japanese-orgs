@@ -583,6 +583,46 @@ Impact: up to 1,600 individuals' data (potentially) leaked
 Source: "[外部委託先への不正アクセスによるお客様情報漏えいについて](https://www.yamaha.com/ja/news_release/files/news/26100901/pdf/2610090101.pdf)" announcement by the company.
 
 
+## 2026-10-13
+
+### Arcadia
+
+
+Company profile: Osaka-based IT company that handles the distribution of disaster prevention information
+
+Breach detected date: 2026-10-11
+
+Breach reported date: 2026-10-13
+
+
+Impact: up to 3,136,000 registered users' data (potentially) leaked
+
+- Hiroshima Prefectural Police's approximately  5,700 police officers and staff members'
+  - names
+  - affiliations
+  - personal email addresses
+
+- employees's data at local governments in Aichi Prefecture
+
+- over 30 local governments are also reportedly impacted
+
+- 110 municipalities that have faced the risk of information leaks or have suspended the distribution of disaster prevention emails.
+
+
+(possibly) Leaked data:
+
+- email addresses
+- phone numbers
+- other data (not clarified in full)
+
+
+Sources:
+  - "[SpeeCAN RAIDEN への不正アクセスによる個⼈情報漏洩の可能性について](https://www.arcadia.co.jp/wp-content/uploads/2026/10/20261012_SpeeCANRAIDEN_cyberattack.pdf)" announcemebt by the company
+  - "[不正アクセスで広島県警5700人の個人情報も漏えいか　名前や私用メールアドレス　「アルカディア」に安否確認システム委託](https://www.fnn.jp/articles/-/1133318)" news article by fnn
+  - "[防災メール配信停止など110自治体に　「アルカディア」不正アクセス影響拡大　スマホアプリ解析でシステムの弱点狙う手口　「早急な点検を」](https://www.fnn.jp/articles/-/1133239)" news article by fnn
+  - "[「アルカディア」不正アクセス　全国の自治体で“防災メール”サービス停止も(2026年10月14日)](https://www.youtube.com/watch?v=zRrDHRg4PJE&list=WL&index=8)" news by Ann News
+
+
 ## 2026-10-15
 
 ### Burger King Japan
