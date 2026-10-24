@@ -104,7 +104,7 @@ Impact: up to 6.6 million accounts's data (potentially) leaked
 
 (Confirmed) Leaked data:
 
-- Driver's license images
+- Driver's license images of approximately 1.46 million users
 - Current address verification document images (utility bills, etc.)
 - Student ID images (for student plans)
 - Family verification document images (for family plans)
@@ -119,6 +119,10 @@ Company announced rule changes regarding storing photo documents of members
   - (for new users) once account creation is complce, it would delete photos used for verification
 
 Source: [タイムズカー　免許証画像の保存ルール変更　大規模な情報漏えい受け(2026年10月16日)](https://www.youtube.com/watch?v=25xQCZklZss&list=WL&index=4) news by ANNnewsCH
+
+On Octber 23rd, company announced that it would pay each victim 3,000 yen compensation fee for approximately 1.46 million users whose personal identification documents, such as driver's licenses got leaked. 
+
+Source: "[タイムズカー個人情報漏えい確認の利用者に、3000円相当の見舞金支払いへ　今後は本人確認書類の画像データを即時削除](https://www.fnn.jp/articles/-/1138733)" news by fnn
 
 
 ## 2026-09-29
