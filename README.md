@@ -52,7 +52,7 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
 - [2026-10-15](#2026-10-15)
   1. [Burger King Japan](#burger-king-japan)
 
-- [2026-10-26](#2026-10-21)
+- [2026-10-21](#2026-10-21)
   1. [GMO Internet (FX Trading)](#gmo-internet-fx-trading)
   
 - [Other](#other)
