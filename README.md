@@ -51,6 +51,9 @@ Disclaimer: The information provided may not be 100% accurate due to nuances in 
 
 - [2026-10-15](#2026-10-15)
   1. [Burger King Japan](#burger-king-japan)
+
+- [2026-10-26](#2026-10-21)
+  1. [GMO Internet (FX Trading)](#gmo-internet-fx-trading)
   
 - [Other](#other)
 
@@ -124,7 +127,7 @@ On Octber 23rd, company announced that it would pay each victim 3,000 yen compen
 
 Source: "[タイムズカー個人情報漏えい確認の利用者に、3000円相当の見舞金支払いへ　今後は本人確認書類の画像データを即時削除](https://www.fnn.jp/articles/-/1138733)" news by fnn.
 
-(ANNews reported it as well. [link](https://www.youtube.com/watch?v=V1V0j_KDL-I&list=WL&index=2))
+(ANNews reported it as well. [link1](https://www.youtube.com/watch?v=V1V0j_KDL-I&list=WL&index=2), [link2](https://www.youtube.com/watch?v=jUqFKCtFCqA&list=WL&index=8))
 
 
 ## 2026-09-29
@@ -661,6 +664,41 @@ Impact: up to 11.18 million customer records (potentially) leaked
 
 Source: "[不正アクセスによる 公式アプリ会員情報漏え いに関するお詫びとお知らせ ](https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf)" announcement by the company.
 
+
+## 2026-10-21
+
+### GMO Internet (FX Trading)
+
+
+Automatic FX trading serivce, お名前.comデスクトップクラウド, operated by GMO Internet was breached. On October 20, 2026, the company confirmed that a malicious program had been installed by a third party within the servers operated by the company.
+
+Breach detected date: 2026-10-20
+
+Breach reported date: 2026-10-21
+
+Impact: up to 26,739 users'/(*servers'*) data (potentially) leaked
+
+Leaked data:
+- account id
+- password
+- logs
+
+
+Sources: 
+
+- "[連結子会社の提供サービスへの不正アクセスに関するお知らせ](https://ir.group.gmo/pdf/irlibrary/gmo_disclose_info20261023.pdf)" announcement by the company.
+- "[【速報】GMO 不正取引の被害補償へ　「能動的サイバー防御」の適用も政府に要請(2026年10月24日)](https://www.youtube.com/watch?v=I5iTFcH5kCk&list=WL&index=2)" news report by ANNews
+- "[GMO、「能動的サイバー防御」適用を政府に要請　不正アクセス問題](https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/)" news article by Nikkei
+- "[ＧＭＯ「お名前ドットコム」に不正アクセス、ＦＸ「数百万円の損失が出た」との声も…パスワード変更呼びかけ](https://www.yomiuri.co.jp/economy/20261023-GYT1T00316/)" news article by Yumiuri Shinbun
+
+Follow-up:
+
+There are [reports](https://youtu.be/KVjS83bbh5w?si=BhyYWRgNiVVIk3iR&t=143) that some accounts were accessed with stolen id & passwords and financial transactions were made.
+
+On October 24th company announced that it would compensate for financial losses incurred in overtaken accounts. It would also pay 5,000 yen compensation to  all FX account users (regardless whether they incurred losses or not.)
+
+
 ## My Thoughts
 
 You can read [my thoughts](https://github.com/Hujaakbar/breached-Japanese-orgs/discussions/1) on this matter in this repository's discussions section, and if you like you can share your take as well.
+
